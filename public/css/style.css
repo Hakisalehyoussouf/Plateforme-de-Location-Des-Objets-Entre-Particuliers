@@ -1,0 +1,38 @@
+.input-group-text {
+    height: 49px;
+}
+
+.container {
+  height: 300px;
+}
+
+
+.img-carousel {
+  max-height: 400px; /* ou tout autre taille que vous voulez */
+  width: auto; /* pour s'assurer que la largeur est automatiquement ajustée */
+}
+
+.city{
+  color: brown;
+}
+
+.categorie{
+  font-size: 12px;
+  line-height: normal;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  margin-top: 8px;
+}
+.left{
+  float:left;
+}
+.right{
+   float:right;
+}
+.nomobjet{
+  text-align: center;
+  text-align: center;
+  color:indigo;
+}
+
